@@ -1,4 +1,8 @@
 <div align="center">
+	<div>
+		<img width="200" style="margin-bottom: 10px;" src="media/logo.png" alt="Awesome Node.js">
+	</div>
+  <b>Curating the best links and resources for <a href="https://optimumpartners.co">Optimum Partners</a> Stack</b>
   <br>
   <br>
   <a href="https://awesome.re">
