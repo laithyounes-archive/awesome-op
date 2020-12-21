@@ -4,7 +4,6 @@
     </div>
     <b>Curating the best links and resources for <a href="https://optimumpartners.co">Optimum Partners</a> Stack</b>
     <br>
-    <p style="font-size: 8px">Forked from <a>WTM</a></p>
     <br>
     <br>
     <a href="https://awesome.re">
@@ -205,3 +204,6 @@
 -   [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 -   [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 -   [Full Stack Talks](https://www.youtube.com/channel/UCpq2_V-9AYYUHSsjoJZPUTg)
+
+<br/><br/><br/><br/><br/><br/>
+    <sup style="font-size: 5px">Forked from <a>WTM</a></sup>
