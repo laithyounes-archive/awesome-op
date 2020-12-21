@@ -4,7 +4,7 @@
     </div>
     <b>Curating the best links and resources for <a href="https://optimumpartners.co">Optimum Partners</a> Stack</b>
     <br>
-    <small style="font-size: 9px">Forked from <a>WTM</a></small>
+    <p style="font-size: 8px">Forked from <a>WTM</a></p>
     <br>
     <br>
     <a href="https://awesome.re">
