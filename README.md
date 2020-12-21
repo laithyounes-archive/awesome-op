@@ -31,6 +31,7 @@
 -   [Frameworks & Libraries](#frameworks--libraries)
 
     -   [React](#react)
+    -   [Angular](https://github.com/PatrickJS/awesome-angular)
     -   [GraphQL](#graphql)
     -   [Gatsby](#gatsby)
     -   [ApostropheCMS](#apostrophecms)
