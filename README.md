@@ -1,16 +1,17 @@
 <div align="center">
-	<div>
-		<img width="400" style="margin-bottom: 10px;" src="media/logo.png" alt="Awesome Node.js">
-	</div>
-  <b>Curating the best links and resources for <a href="https://optimumpartners.co">Optimum Partners</a> Stack</b>
-  <br>
-  <br>
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
-  </a>
-  <br>
-  <hr>
-	<small>Forked from WTM</small>
+    <div>
+        <img width="400" style="margin-bottom: 10px;" src="media/logo.png" alt="Awesome Node.js">
+    </div>
+    <b>Curating the best links and resources for <a href="https://optimumpartners.co">Optimum Partners</a> Stack</b>
+    <br>
+    <small style="font-size: 9px">Forked from <a>WTM</a></small>
+    <br>
+    <br>
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
+    </a>
+    <br>
+    <hr>
 </div>
 
 ## Table of Contents
